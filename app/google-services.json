@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850240151489",
+    "project_id": "fresh-and-tasty-2e775",
+    "storage_bucket": "fresh-and-tasty-2e775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850240151489:android:7c5e5e5339b9c20bca9940",
+        "android_client_info": {
+          "package_name": "ipca.tg.a16609a18812"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850240151489-boqedj6o54bqj0q59aim3fjuhr7l16fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJTAWKB79AoHqJ3XM5wphIlqrPxJoEKMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850240151489-boqedj6o54bqj0q59aim3fjuhr7l16fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
